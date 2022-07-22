@@ -36,6 +36,6 @@ int main()
 	else
 	{
 		cout << "ERROR: Cannot open the file.\n"; 
-	}
+	} 
 	return 0; 
 }
